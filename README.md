@@ -1,6 +1,8 @@
 ## Experience
 **Data Analyst** - (September 2016 - November 2017)
+
 Softchoice - Toronto, On
+
 Languages: Python
 - Assessed client’s infrastructure to make recommendations on server optimization. 
 - Led project discovery and planning; to ensure client’s optimization needs are met.
@@ -10,7 +12,9 @@ Languages: Python
 -	Utilized knowledge of Public Cloud technologies (AWS/Azure), for our services. 
 
 **Full-Stack Developer** - (May 2016 - August 2016)
+
 NCX Inc. - Richmond Hill, On
+
 Languages: C#/.Net, JSON, Javascript          Database Technology: SQL
 -	Developed web application that processes orders for multiple stores on one platform. 
 -	Implemented front and back end design for user interface and data manipulation. 
@@ -21,7 +25,9 @@ Languages: C#/.Net, JSON, Javascript          Database Technology: SQL
 -	Used SVN for version control management to provide visibility across team.
 
 **Test Analyst** - (September 2015 - December 2015)
+
 CIBC - Toronto On
+
 Languages: Perl, C++
 -	Developed basic test cases, scenarios and scripts to ensure the quality of applications. 
 -	Provided technical in person support for Traders, fixing individual software issues.
