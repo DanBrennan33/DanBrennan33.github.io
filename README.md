@@ -31,6 +31,7 @@ Languages: Perl, C++
 
 ## Education
 **Computer Programming & Analysis** - Associate's Degree GPA: 3.7
+
 Seneca College of Applied Arts & Technology (2014-2016)
   
 ## Technical Skills
