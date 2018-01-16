@@ -29,11 +29,11 @@ Languages: Perl, C++
 -	Deployed version updates of Stock Trading software during production to Traders.
 -	Updated real time C++ software application that tracks Stock pricing for internal use.
 
-##Education
+## Education
 **Computer Programming & Analysis** - Associate's Degree GPA: 3.7
   Seneca College of Applied Arts & Technology (2014-2016)
   
-##Technical Skills
+## Technical Skills
 **Languages**         Java, Python,HTML5/CSS3, JavaScript, SQL, NoSQL
 **Libraries**             jUnit, jQuery, Bootstrap, Node.js, npm, pip
 **Tools**         Git, Eclipse, Atom, Windows, Linux, Salesforce, Robo 3T
