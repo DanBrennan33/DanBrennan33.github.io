@@ -36,7 +36,9 @@ Seneca College of Applied Arts & Technology (2014-2016)
   
 ## Technical Skills
 **Languages**         Java, Python,HTML5/CSS3, JavaScript, SQL, NoSQL
+
 **Libraries**             jUnit, jQuery, Bootstrap, Node.js, npm, pip
+
 **Tools**         Git, Eclipse, Atom, Windows, Linux, Salesforce, Robo 3T
 
 
